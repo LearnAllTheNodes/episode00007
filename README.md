@@ -8,6 +8,8 @@ This is a longer episode, but this is a fundamental Node concept and well worth 
 
 ## Notes
 
+[The Episode](http://www.learnallthenodes.com/episodes/7-node-code-in-other-files)
+
 [Common JS](http://www.commonjs.org/)
 
 [Node.js modules documentation](http://nodejs.org/api/modules.html)
