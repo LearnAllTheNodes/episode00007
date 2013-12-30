@@ -15,9 +15,9 @@ This is a longer episode, but this is a fundamental Node concept and well worth 
 [Hacksparrow on exports vs module.exports](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html)
 
     // This is the tl;dw summary of the episode.  It glosses over many important details.
-   require("express")
-   require("./express")
-   exports.theAnswer = 42
-   module.exports = {
-     theAnswer: 42
-   }
+    require("express")
+    require("./express")
+    exports.theAnswer = 42
+    module.exports = {
+      theAnswer: 42
+    }
